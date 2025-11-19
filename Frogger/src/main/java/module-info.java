@@ -4,4 +4,6 @@ module frogger {
     requires java.desktop;
 
     exports frogger.display to javafx.graphics;
+    exports frogger.model;
+    exports frogger.model.entities;
 }
