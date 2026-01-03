@@ -27,6 +27,12 @@
             <scope>system</scope>
             <systemPath>${project.basedir}/libs/ucd.comp2011.engine.jar</systemPath>
         </dependency>
+        <dependency>
+            <groupId>org.jetbrains</groupId>
+            <artifactId>annotations</artifactId>
+            <version>RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
