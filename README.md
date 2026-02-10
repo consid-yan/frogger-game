@@ -10,6 +10,7 @@
 - [Installation & Setup](#installation--setup)
 - [Game Controls](#game-controls)
 - [Acknowledgments](#acknowledgments)
+- [License](#license)
 
 ## 🎮 About
 
@@ -72,7 +73,7 @@ Ensure Project SDK is set to JDK 25:
 
 ## 🙏 Acknowledgments
 
-- **Sean** - Many thanks for providing the robust game engine framework that served as the foundation for this project
+- **Seán** - Many thanks for providing the robust game engine framework that served as the foundation for this project
 - **COMP2011J Teaching Team** - For guidance and support throughout the development
 - **JavaFX Community** - For excellent UI development resources
 
@@ -83,5 +84,6 @@ Ensure Project SDK is set to JDK 25:
 This project is created for educational purposes as part of COMP2011J assignment.
 
 ---
+
 
 **Happy Gaming!** 🐸✨
